@@ -115,7 +115,7 @@ class DataImporters:
         treatment_mean = np.mean(imported_data['variant_b']) if len(imported_data['variant_b']) > 0 else 0
         
         summary = f"""
-📊 Data Import Summary
+ Data Import Summary
 ────────────────────
 Source: {imported_data.get('source', 'unknown')}
 Metric: {imported_data.get('metric_name', 'unknown')}
