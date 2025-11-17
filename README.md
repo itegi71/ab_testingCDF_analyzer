@@ -30,7 +30,7 @@ Comprehensive Testing: Reliability you can trust
 Installation
 bash
 # Clone the repository
-git clone https://github.com/yourusername/ab-testing-cdf-analyzer.git
+git clone https://github.com/username/ab-testing-cdf-analyzer.git
 cd ab-testing-cdf-analyzer
 
 # Create virtual environment
@@ -212,5 +212,6 @@ We love contributions! See our Contributing Guide for:
 
  License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 
